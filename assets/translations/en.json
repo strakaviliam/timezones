@@ -1,0 +1,80 @@
+{
+  "error": {
+    "token": "Token expired",
+    "general": "We have some problem",
+    "no_connection": "No internet connection",
+
+    "validate_email": "Wrong email",
+    "validate_phone": "Wrong phone",
+    "validate_min_length": "To short",
+    "validate_min_length_password": "The password is too short",
+    "validate_min_length_code": "The code is too short",
+    "validate_lowercase_alpha_num": "Wrong format, use only alphanumeric lowercase",
+    "validate_empty": "Cannot be empty",
+    "validate_hex_color": "Wrong hex format (#ffffff)",
+    "validate_number": "Wrong number format!",
+    "validate_positive_number": "Must be positive (+)!",
+
+    "username_not_available": "Username used",
+    "email_not_available": "Email used",
+    "phone_not_available": "Phone used",
+    "wrong_user_info": "Informations are not correct.",
+    "user_not_found": "User not found",
+    "wrong_email": "Email is wrong",
+    "wrong_password": "Wrong Password!",
+    "authentication": "Problem with login",
+    "verify_need_wait": "Need wait befor request again.",
+    "verify_wrong_type": "Worng code",
+    "verify_not_found": "Worng code",
+    "verify_not_valid": "Worng code",
+    "verify_expired": "Expired code",
+
+    "user_no_admin": "Need admin access",
+    "no_timezone": "Wrong timezone"
+  },
+  "common": {
+    "cancel": "Cancel",
+    "ok": "OK",
+    "email": "Email",
+    "password": "Password",
+    "logout": "Logout",
+    "yes": "Yes",
+    "edit": "Edit",
+    "remove": "Remove"
+  },
+  "login": {
+    "welcome": "Welcome {}",
+    "enter_email": "enter your email:",
+    "please_login": "please login:",
+    "set_password": "set your password:",
+    "login_action": "Login",
+    "register_action": "Join",
+    "terms": "I agree to the Terms & Conditions and Privacy Policy.",
+    "terms_clickable": "Terms & Conditions",
+    "privacy_clickable": "Privacy Policy"
+  },
+  "home": {
+    "add": "Add new",
+    "search": "Search user",
+    "search_type": "Type email...",
+    "logout_question": "Do you really want to log out?",
+    "gmt_diff": "{} HRS",
+    "add_timezone": "Add timezone",
+    "edit_timezone": "Edit timezone",
+    "timezone_name": "Name",
+    "timezone_city": "City",
+    "timezone_gmt": "GMT",
+    "timezone_name_hint": "Type name...",
+    "timezone_city_hint": "Type city...",
+    "timezone_empty_add": "Add your first timezone"
+  },
+
+  "terms": {
+    "title": "Terms & Conditions",
+    "content": "# Terms and conditions\n\nThese terms and conditions (\"Terms\", \"Agreement\") are an agreement between ..."
+  },
+  "privacy": {
+    "title": "Privacy Policy",
+    "content": "# Privacy policy\n\nThis privacy policy (\"Policy\") describes how ..."
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "code": 200,
+  "body": [
+    {
+      "name": "Central Europe Standard Time",
+      "city": "Bratislava",
+      "gmtDiff": 7200,
+      "uid": 1000,
+      "id": 5
+    },
+    {
+      "name": "SE Asia Standard Time",
+      "city": "Bangkok",
+      "gmtDiff": 25200,
+      "uid": 1000,
+      "id": 6
+    },
+    {
+      "name": "Eastern Standard Time",
+      "city": "New York",
+      "gmtDiff": -14400,
+      "uid": 1000,
+      "id": 8
+    },
+    {
+      "name": "E. Australia Standard Time",
+      "city": "Brisbane",
+      "gmtDiff": 36000,
+      "uid": 1000,
+      "id": 11
+    },
+    {
+      "name": "test zone",
+      "city": "test city",
+      "gmtDiff": 0,
+      "uid": 1000,
+      "id": 14
+    }
+  ],
+  "status": true
+}

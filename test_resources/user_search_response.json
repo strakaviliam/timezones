@@ -1,0 +1,17 @@
+{
+  "code": 200,
+  "body": [
+    {
+      "username": "",
+      "email": "user1@test.com",
+      "phone": "",
+      "emailVerified": false,
+      "phoneVerified": false,
+      "passwordGenerated": false,
+      "role": "USER",
+      "id": 1001,
+      "test": false
+    }
+  ],
+  "status": true
+}
